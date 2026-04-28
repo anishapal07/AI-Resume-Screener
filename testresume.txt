@@ -1,0 +1,22 @@
+ANISHA PAL
+Computer Science Engineering Student
+
+OBJECTIVE
+A dedicated CSE student seeking an internship. Expert in Python programming and Data Structures.
+
+TECHNICAL SKILLS
+
+Programming: Python, Java, C++, SQL.
+
+Core CS: Data Structures, Algorithms, DBMS, Operating Systems.
+
+Tools: VS Code, Git, GitHub.
+
+PROJECTS
+
+AI Resume Screener: Built a tool in Python using Scikit-Learn to analyze text similarity.
+
+Facial Recognition System: Used Python and OpenCV for real-time image processing.
+
+EDUCATION
+B.Tech in Computer Science and Engineering. Deep knowledge of Java and Object-Oriented Programming.
